@@ -9,7 +9,7 @@ body {
   background-color: #edf3fa;
 }
 
-.container {
+.content {
   width: 736px;
   display: flex;
   border-radius: 32px;
@@ -205,9 +205,9 @@ body {
 }
 
 
-/* Container Secondary Start */
+/* content Secondary Start */
 /* ------------------------------------------------- */
-.container-secondary {
+.content-secondary {
   width: 375px;
   display: flex;
   flex-direction: column;
