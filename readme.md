@@ -1,1 +1,1 @@
-# Results Summary Component Projesi (Figma) Bu Sayfada.
+# Results Summary Component Projesi (Figma) Bu Repoda.
