@@ -1,0 +1,1 @@
+# Results Summary Component Projesi (Figma) Bu Sayfada.
