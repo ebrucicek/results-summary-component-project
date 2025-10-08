@@ -193,6 +193,10 @@ body {
   font-weight: 700;
 }
 
+.white-section a:active {
+  background: linear-gradient(180deg, #7755FF 0%, #6943FF 0.01%, #2F2CE9 100%);
+}
+
 .number {
   font-size: 18px;
   color: #303B59;
@@ -211,7 +215,6 @@ body {
   width: 375px;
   display: flex;
   flex-direction: column;
-  border-radius: 32px;
   background-color: #fff;
 }
 
@@ -384,6 +387,10 @@ body {
   margin-bottom: 30px;
   width: 315px;
   text-align: center;
+}
+
+.white-section-secondary a:active {
+  background: linear-gradient(180deg, #7755FF 0%, #6943FF 0.01%, #2F2CE9 100%);
 }
 
 .number-secondary {
